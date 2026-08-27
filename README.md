@@ -38,3 +38,8 @@ These plots help clinicians understand *why* the model made a prediction.
 
 
 ## Screenshots
+![Dashboard Screenshot](images/dashboard1.png)
+![Risk Score Distribution Plot](images/dashboard2.png)
+![SHAP Feature Importance](images/dashboard3.png)
+![cont.](images/dashboard4.png)
+![SHAP Waterfall Plot](images/dashboard5.png)
